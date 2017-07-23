@@ -1,0 +1,50 @@
+---
+title: "Coursework"
+---
+
+I have been taking many mathematics and statistics courses at IUB and UCSC. At IUB, I took several undergraduate level and advanced mathematics as well as (mainly frequentist) statistics courses. At UCSC, most of the coursework focus on Bayesian statistics. I am also a MOOC fan
+
+# Selected Coursework at IUB
+* Advanced Mathematics
+    + M413/414 Introduction to Analysis (C. Livingston)
+    + M441/442 Partial Differential Equations (P. Sternberg/N. Levenberg)
+    + M471 Numerical Analysis (S. Wang)
+    + M563/564 Measure Theoretic Probability Theory (R. Bradley)
+    
+* Advanced Statistics
+    + S710 Statistical Computing (M. Trosset)
+    + S675 Statistical Learning (M. Trosset)
+    + S730 Theory of Linear Models (C. Huang)
+
+# Selected Coursework at UCSC
+* Probability, Statistics and Computing Fundamentals
+    + AMS205B Classical Inference (D. Draper)
+    + AMS209 Scientific Computing (D. Lee)
+    + AMS256 Linear Models (A. Rodriguez)
+    + AMS263 Stochastic Processes (A. Kottas)
+
+* Bayesian Statistics
+    + AMS206B Bayesian Inference (R. Prado)
+    + AMS207 Bayesian Modeling (B. Sanso)
+    + AMS221 Bayesian Decision Theory (B. Sanso)
+    + AMS241 Bayesian Nonparametrics (A. Rodriguez)
+    + AMS268 Advanced Bayesian Computation (R. Guhaniyogi)
+    
+* Specific Topics
+    + AMS216 Stochastic Differential Equations (T. Xifara)
+    + AMS225 Multivariate Statistical Methods (J. Lee)
+    + AMS223 Time Series Analysis (R. Prado)
+    + AMS245 Spatial Statistics (B. Sanso)
+    + AMS274 Generalized Linear Models (A. Kottas)
+    
+The webpage <https://people.ucsc.edu/~cy48707/> includes some of my coursework at UCSC. You are welcome to see my work but please **do not copy or plagiarize** them in any way of any form. If any course is currently offered, the links for that course will be removed. Feel free to contact me about my coursework!
+
+# Selected Coursework from MOOC
+* Coursera
+    + Data Science Specializations offered by Johns Hopkins University (completed all courses except capstone project)
+    + Python Programming: 
+        - The Fundamentals (Python), University of Toronto
+        - An Introduction to Interactive Programming in Python (Part 1), Rice University
+        - Using Python to Access Web Data, University of Michigan
+
+I also visit Udemy, Udacity, Edx and other online learning sites.
