@@ -1,6 +1,0 @@
----
-title: "Curriculum Vitae"
----
-
-Download my CV as PDF here: <a href="CV.pdf" class="download" title="Download CV as PDF">my CV</a>
-
