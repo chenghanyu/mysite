@@ -1,0 +1,12 @@
+---
+title: "About me"
+---
+
+## Biography
+
+I am a PhD student in [Statistics and Applied Mathematics](https://www.soe.ucsc.edu/departments/applied-mathematics-statistics) of [Jack Baskin School of Engineering](https://www.soe.ucsc.edu/) at [University of California, Santa Cruz](http://www.ucsc.edu/), advised by Dr. [Raquel Prado](https://raquel.soe.ucsc.edu/). Before enjoying California’s sunshine, I studied [Economics](https://economics.indiana.edu/) and [Statistics](http://www.stat.indiana.edu/) at [Indiana University Bloomington (IUB)](https://www.indiana.edu/). My current research focuses on Bayesian spatio-temporal modeling and Bayesian variable selection with applications in brain imaging, fMRI data in particular. I am also in the space-time research group of Professor [Hernando Ombao](http://hombao.ics.uci.edu/hernando.html) at [University of California, Irvine](http://www.stat.uci.edu/). My other interests include RStudio tools, data visualization and high dimensional problems. Besides analyzing data and coding, I am a foodie, traveling-lover and sports fan, especially MLB, NBA, and professional tennis. 
+
+## Contact information
+Office: UCSC Baskin Engineering, Room 356
+
+Email: cheyu@soe.ucsc.edu
